@@ -8,7 +8,7 @@ function Encabezado(){
             <ul>
                 <li><Link to="/">Inicio</Link></li>
                 <li><Link to="/contacto">Contacto</Link></li>
-                <li><Link to="/productos">productos</Link></li>
+                <li><Link to="/productos">Productos</Link></li>
             </ul>
             <hr/>
         </div>

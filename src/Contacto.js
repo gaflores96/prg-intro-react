@@ -9,7 +9,7 @@ function Contacto() {
 
         <label for="mensaje">Mensaje</label><br />
         <br />
-        <textarea id="mensaje"></textarea>
+        <textarea id="mensaje" required></textarea>
         <br /><br />
         <button type="submit">Enviar</button>
     </form>
